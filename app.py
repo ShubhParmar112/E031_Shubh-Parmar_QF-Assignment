@@ -10,6 +10,7 @@ from datetime import date, timedelta
 from scipy.optimize import minimize
 from groq import Groq
 import streamlit.components.v1 as components
+import os
 
 # ==================================
 # Configuration & Styling
